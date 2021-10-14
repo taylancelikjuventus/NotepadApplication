@@ -1,0 +1,2 @@
+Project is created with Qt 5 framework and tested on Windows 10.
+This project has executable file for all Windows OS.
