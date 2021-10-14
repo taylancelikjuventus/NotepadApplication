@@ -1,0 +1,38 @@
+
+Notepad Application
+
+1.Add Text Editto MainWindow and set horizontal layout for Main Window.
+
+By Default MainWindow has
+
+-menubar QMenuBar
+
+-maintoolbar QToolBar
+
+-statusbar QStatusBar
+
+2.Create Menuitems by clicking "Type Here" area and add File menu there.Which is on
+  QMenubar.
+
+3.Add Resource fileto project
+  Select Add Prefix and type icons
+  Then create "icons" older in project folder and add images there
+  Select Add file and the icons folder in project.
+
+4.We can add icons to menubar by double clicking menu items on the panel below
+  Editor and selecting the icons from resource file.
+
+5.We can simalarly add icons to maintoolbar as well.
+
+6.Now add event handlers for each action in menubar.
+  right click on action item from bottom panel and Go to Slot/triggered() .
+
+
+
+
+
+
+
+
+
+
