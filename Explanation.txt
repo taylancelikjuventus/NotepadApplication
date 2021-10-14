@@ -1,3 +1,4 @@
 Project is created with Qt 5 framework and tested on Windows 10.
 This project has executable file for all Windows OS under debug folder
-as "NotepadApp.exe".
+as "NotepadApp.exe". To run this application you have to download
+all the files and folders inside debug folder !
